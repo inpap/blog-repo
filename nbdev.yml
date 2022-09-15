@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "blog-repo"
+  site-url: "https://inpap.github.io/blog-repo"
+  description: "Blog using nbdev"
+  repo-branch: master
+  repo-url: "https://github.com/inpap/blog-repo"
